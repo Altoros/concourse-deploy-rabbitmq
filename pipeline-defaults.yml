@@ -1,0 +1,4 @@
+pivotal-rabbitmq-service-version: 1.6.7
+stemcell-cpi-glob: '*vsphere*'
+stemcell-version: 3232.17
+product_plugin: p-rabbitmq-plugin-linux
