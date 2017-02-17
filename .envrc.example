@@ -19,4 +19,5 @@ export PATH=$PATH:$PWD/bin
 
 # Config repo git info
 export PIPELINE_REPO=https://github.com/Altoros/concourse-rabbitmq.git
+export PIPELINE_REPO_BRANCH=master
 export PIPELINE_REPO_PRIVATE_KEY_PATH=...

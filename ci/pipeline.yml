@@ -26,7 +26,7 @@ resources:
   check_every: 4h
   source:
     uri: {{pipeline-repo}}
-    branch: {{pipeline-repo-brunch}}
+    branch: {{pipeline-repo-branch}}
     private_key: {{pipeline-repo-private-key}}
 - name: omg-cli
   type: github-release

@@ -3,5 +3,6 @@
   "pivnet_api_token": "asd",
   "rabbit-public-ip": "x.x.x.x",
   "rabbit-server-ip": "x.x.x.x",
-  "rabbit-broker-ip": "x.x.x.x"
+  "rabbit-broker-ip": "x.x.x.x",
+  "syslog-address": "x.x.x.x"
 }
